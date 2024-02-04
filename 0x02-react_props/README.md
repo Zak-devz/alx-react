@@ -1,6 +1,6 @@
 # 0x02. React props
 
-## Learning Objectives
+## Learning Objectives:
 
 - How to create basic React components using functions
 - How to reuse components
